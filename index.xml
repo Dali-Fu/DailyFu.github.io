@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Julien Pascal on Julien Pascal</title>
-    <link>https://julienpascal.github.io/</link>
-    <description>Recent content in Julien Pascal on Julien Pascal</description>
+    <title>Daily Fu on Daily Fu</title>
+    <link>https://DailyFu.github.io/</link>
+    <description>Recent content in Daily Fu on Daily Fu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Julien Pascal</copyright>
+    <copyright>&amp;copy; 2017 Daily Fu</copyright>
     <lastBuildDate>Mon, 18 Jan 2021 18:53:22 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Young&#39;s method (2010) to simulate a cross-section</title>
-      <link>https://julienpascal.github.io/post/young_2010/</link>
+      <link>https://DailyFu.github.io/post/young_2010/</link>
       <pubDate>Mon, 18 Jan 2021 18:53:22 +0100</pubDate>
       
-      <guid>https://julienpascal.github.io/post/young_2010/</guid>
+      <guid>https://DailyFu.github.io/post/young_2010/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -4377,10 +4377,10 @@ print(abs.(approximationPi1W .- pi) ./ abs.(approximationPiNW .- pi))
     
     <item>
       <title>A Primer to Parallel Computing with Julia</title>
-      <link>https://julienpascal.github.io/post/primerparallel/</link>
+      <link>https://DailyFu.github.io/post/primerparallel/</link>
       <pubDate>Mon, 18 Mar 2019 18:53:22 +0100</pubDate>
       
-      <guid>https://julienpascal.github.io/post/primerparallel/</guid>
+      <guid>https://DailyFu.github.io/post/primerparallel/</guid>
       <description>
 
 &lt;h1 id=&#34;a-primer-to-parallel-computing-with-julia&#34;&gt;A Primer to Parallel Computing with Julia&lt;/h1&gt;
@@ -4470,7 +4470,7 @@ display(p)
 Plots.savefig(p, &amp;quot;convergence_rate.png&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://julienpascal.github.io/img/PrimerParallel/convergence_rate.png&#34; alt=&#34;svg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://DailyFu.github.io/img/PrimerParallel/convergence_rate.png&#34; alt=&#34;svg&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;adding-workers&#34;&gt;Adding &amp;ldquo;workers&amp;rdquo;&lt;/h2&gt;
 
@@ -4628,7 +4628,7 @@ display(p)
 Plots.savefig(p,&amp;quot;error_comparison.png&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://julienpascal.github.io/img/PrimerParallel/error_comparison.png&#34; alt=&#34;svg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://DailyFu.github.io/img/PrimerParallel/error_comparison.png&#34; alt=&#34;svg&#34; /&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;p = Plots.plot(gridPoints, elapsedTime1W, label = &amp;quot;Serial&amp;quot;)
 Plots.plot!(gridPoints, elapsedTimeNW, label = &amp;quot;Parallel&amp;quot;)
@@ -4639,7 +4639,7 @@ display(p)
 Plots.savefig(&amp;quot;Speed_gains.png&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://julienpascal.github.io/img/PrimerParallel/Speed_gains.png&#34; alt=&#34;svg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://DailyFu.github.io/img/PrimerParallel/Speed_gains.png&#34; alt=&#34;svg&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

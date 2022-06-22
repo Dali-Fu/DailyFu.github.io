@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\about",
+    "\\src\\app\\contact",
+    "\\src\\app\\intro",
+    "\\src\\app\\project"
+  ],
+  "SelectedNode": "\\src\\app\\about\\about.tpl.html",
+  "PreviewInSolutionExplorer": false
+}

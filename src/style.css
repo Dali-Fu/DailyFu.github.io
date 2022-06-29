@@ -235,7 +235,86 @@ a {
   display: inline-block;
   text-align: right;
 }
+/*Research */
 
+.Research {
+  background-color: #E0EBEB;
+  color: #333;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  padding: 4em 0;
+}
+
+.ResearchTitle {
+  font-size: 2em;
+  font-weight: bolder;
+  padding: 0 0 1em 0;
+}
+
+.Researchmain {
+  width:100%;
+  margin: 0 auto;
+}
+
+.ResearchSection {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 1.5em;
+  margin: 0 auto;
+  padding: 1em 5%;
+}
+
+.ResearchName {
+  width: 80%;
+  display: inline-block;
+  text-align: left;
+}
+
+.ResearchIcon {
+  display: inline-block;
+  text-align: right;
+}
+/*Teaching */
+
+.Teaching {
+  background-color: #E0EBEB;
+  color: #333;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  padding: 4em 0;
+}
+
+.TeachingTitle {
+  font-size: 2em;
+  font-weight: bolder;
+  padding: 0 0 1em 0;
+}
+
+.Researchmain {
+  width:100%;
+  margin: 0 auto;
+}
+
+.TeachingSection {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 1.5em;
+  margin: 0 auto;
+  padding: 1em 5%;
+}
+
+.TeachingName {
+  width: 80%;
+  display: inline-block;
+  text-align: left;
+}
+
+.TeachingIcon {
+  display: inline-block;
+  text-align: right;
+}
 /* Contact */
 
 .contact {
